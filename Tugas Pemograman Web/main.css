@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: #f0f0f0;
+    height: 200px;
+    display: flex; 
+    justify-content: center; 
+    align-items: center;
+    background-color: blue;
+}
+
+aside {
+    float: left;
+    width: 20%;
+    background-color: #ddd;
+    padding: 20px;
+    background-color: aqua;
+}
+
+section {
+    float: left;
+    width: 70%;
+    padding: 20px;
+    background-color: #ddd;
+}
+
+footer {
+    clear: both;
+    background-color: #f0f0f0;
+    text-align: center;
+    padding: 10px;
+}
